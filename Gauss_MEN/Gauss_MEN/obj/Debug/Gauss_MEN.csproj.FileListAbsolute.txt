@@ -1,0 +1,6 @@
+C:\C#\Gauss_MEN\Gauss_MEN\bin\Debug\Gauss_MEN.exe.config
+C:\C#\Gauss_MEN\Gauss_MEN\bin\Debug\Gauss_MEN.exe
+C:\C#\Gauss_MEN\Gauss_MEN\bin\Debug\Gauss_MEN.pdb
+C:\C#\Gauss_MEN\Gauss_MEN\obj\Debug\Gauss_MEN.csprojResolveAssemblyReference.cache
+C:\C#\Gauss_MEN\Gauss_MEN\obj\Debug\Gauss_MEN.exe
+C:\C#\Gauss_MEN\Gauss_MEN\obj\Debug\Gauss_MEN.pdb
